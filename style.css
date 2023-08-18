@@ -1,5 +1,6 @@
 *{
     font-family: Montserrat;
+    color:#e9c46a
 
 }
 
@@ -38,4 +39,12 @@ h1{
 
 main{
     background-color: whitesmoke;
+}
+
+.dashes{
+    color: black;
+}
+
+.title{
+    
 }
