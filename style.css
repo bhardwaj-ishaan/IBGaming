@@ -1,7 +1,41 @@
 *{
     font-family: Montserrat;
+
 }
 
 h1{
-    font-family: Josefin-Sans;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    margin-left: 5px;
+    color: #e9c46a
+}
+
+.header{
+    background-color: #222;
+    display: inline-flex;
+    width: 100%;
+}
+
+.nav{
+    margin: auto;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.nav-element{
+    margin-left: 10px;
+    margin-right: 10px;
+    color: white;
+    font-weight: 1000;
+    text-decoration: none;
+}
+
+.nav-element:hover{
+    color: #e9c46a
+}
+
+main{
+    background-color: whitesmoke;
 }
